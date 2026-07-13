@@ -1,3 +1,4 @@
+import utils.session
 import streamlit as st
 
 from utils.styles import inject_css
