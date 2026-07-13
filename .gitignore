@@ -1,0 +1,45 @@
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging output
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit local state
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Local runtime data
+*.db
+logs/
+generated/
+uploads/
+vectorstore/faiss_index/
+vectorstore/metadata/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
