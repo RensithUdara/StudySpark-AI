@@ -1,0 +1,14 @@
+streamlit
+plotly
+pandas
+numpy
+pdfplumber
+python-pptx
+transformers
+torch
+sentence-transformers
+keybert
+faiss-cpu
+python-docx
+fpdf2
+nltk
