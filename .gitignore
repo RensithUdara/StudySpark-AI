@@ -31,6 +31,7 @@ wheels/
 .streamlit/cache/
 
 # Local runtime data
+*.log
 *.db
 logs/
 generated/
