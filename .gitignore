@@ -44,4 +44,4 @@ vectorstore/metadata/
 Thumbs.db
 .idea/
 node_modules
-.vscode/
+config.bat
