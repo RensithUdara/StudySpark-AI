@@ -43,5 +43,5 @@ vectorstore/metadata/
 .DS_Store
 Thumbs.db
 .idea/
-config.bat
 node_modules
+.vscode/
